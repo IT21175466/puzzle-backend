@@ -1,0 +1,5 @@
+1. ssh -i "puzzle-backend.pem" ec2-user@ec2-13-213-70-177.ap-southeast-1.compute.amazonaws.com
+2. sudo su
+3. ls
+4. cd puzzle-backend
+5. python3 pzzle_game.py
